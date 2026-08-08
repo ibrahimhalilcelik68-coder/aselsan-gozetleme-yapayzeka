@@ -1,9 +1,0 @@
-
-# ASELSAN Gözetleme Yapay Zeka
-
-Bu proje, YOLOv8 kullanarak gerçek zamanlı nesne tespiti yapar.
-Webcam veya video üzerinden insan, araç, hayvan tespiti yapabilir.
-
-## Kurulum
-```bash
-pip install -r requirements.txt
